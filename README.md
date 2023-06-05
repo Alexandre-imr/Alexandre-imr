@@ -1,11 +1,11 @@
-### Olá, sou Alexandre Inácop
+### Olá, sou Alexandre Inácio
 
 
 - 🔭 Hoje eu trabalho com Automação
 - 🌱 Estudando Sistema de Informação
 - 😄 Pronouns: ele/dele
 
-Resumo: Sou formado em eletrônica pelo CEFET. Durante o curso, descobri minha paixão pela programação estou me dedicando para  me obter uma transição de área.
+Resumo: Sou formado em eletrônica pelo CEFET. Durante o curso, descobri minha paixão pela programação estou me dedicando para obter uma transição de área.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-imr&show_icons=true&theme=transparent)
 
