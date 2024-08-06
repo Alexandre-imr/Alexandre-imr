@@ -3,7 +3,7 @@
 
 - 🔭 Hoje eu trabalho com Automação
 - 🌱 Estudando Sistema de Informação
-- 😄 Pronouns: ele/dele
+
 
 Resumo: Sou formado em eletrônica pelo CEFET. Durante o curso, descobri minha paixão pela programação estou me dedicando para obter uma transição de área.
 
