@@ -1,17 +1,17 @@
 ### Olá, sou Alexandre Inácio
 
 
-- 🔭 Hoje eu trabalho com Automação
+- 🔭 Hoje eu estágio full stack
 - 🌱 Estudando Sistema de Informação
 
-
-Resumo: Sou formado em eletrônica pelo CEFET. Durante o curso, descobri minha paixão pela programação estou me dedicando para obter uma transição de área.
+Me formei em Eletrônica pelo CEFET e, durante o curso, acabei me apaixonando por programação. Comecei a trabalhar com automação, mas logo percebi que aquilo não era o que eu realmente queria. Foi aí que resolvi mergulhar em Sistemas de Informação (SI) e fazer uma transição de carreira. Hoje estou estagiando na área e vejo muitas oportunidades para crescer e aprender. Acredito de verdade que a obsessão em melhorar sempre supera o talento, e estou disposto a encarar qualquer desafio para chegar onde quero.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-imr&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
 <div> 
